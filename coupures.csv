@@ -1,0 +1,4 @@
+température,vent,charge_reseau,coupure_probable
+30,15,200,1
+25,10,150,0
+20,5,100,0

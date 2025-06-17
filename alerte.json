@@ -1,0 +1,4062 @@
+[
+    {
+    "version": 2,
+    "builds": [
+        { "src": "Doc.py", 
+        "use": "@vercel/python" }
+    ],
+    "routes": [
+        { "src": "/(.*)", "dest": "Docs.py" }
+    ]
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:08"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:11"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:14"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:19"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:23"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:24"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:26"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:29"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:30"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:32"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:33"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:35"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:36"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:38"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:39"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:41"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:42"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:44"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:45"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:47"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:48"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:50"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:51"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:53"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:54"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:56"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:57"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:34:59"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:00"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:07"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:08"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:12"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:13"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:16"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:17"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:19"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:20"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:23"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:23"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:26"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:26"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:29"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:29"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:32"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:32"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:35"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:35"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:38"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:38"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:41"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:41"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:44"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:44"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:47"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:47"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:55"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:55"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:59"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:35:59"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:03"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:03"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:06"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:06"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:09"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:09"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:12"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:12"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:15"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:15"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:18"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:18"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:21"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:21"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:24"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:36:24"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:37:51"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:37:54"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:37:57"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:05"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:08"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:08"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:12"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:15"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:18"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:21"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:24"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:27"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:30"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:33"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:36"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:39"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:42"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:50"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:53"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:38:57"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:00"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:03"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:06"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:09"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:12"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:15"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:18"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:21"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:24"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:27"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:35"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:38"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:42"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:45"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:48"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:51"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:54"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:39:57"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:00"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:03"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:06"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:09"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:13"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:21"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:24"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:28"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:31"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:34"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:37"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:40"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:43"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:46"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:49"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:52"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:55"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:40:58"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:06"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:09"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:13"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:13"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:16"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:19"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:22"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:25"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:28"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:31"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:34"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:37"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:40"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:43"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:51"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:54"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:41:59"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:02"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:05"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:08"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:11"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:14"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:17"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:20"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:23"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:26"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:29"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:37"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:40"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:44"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:44"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:47"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:47"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:50"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:50"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:53"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:53"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:56"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:56"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:59"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:42:59"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:02"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:02"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:05"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:05"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:08"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:08"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:11"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:11"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:14"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:14"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:22"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:22"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:25"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:25"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:29"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:32"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:35"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:38"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:41"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:44"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:47"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:50"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:53"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:56"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:43:59"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:07"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:10"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:15"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:18"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:21"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:24"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:27"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:30"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:33"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:36"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:39"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:42"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:45"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:53"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:44:56"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:00"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:03"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:06"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:09"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:12"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:15"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:18"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:21"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:25"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:28"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:31"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:39"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:42"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:42"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:46"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:49"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:52"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:55"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:45:58"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:01"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:04"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:07"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:10"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:13"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:16"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:24"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:27"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:31"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:34"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:37"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:40"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:43"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:46"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:49"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:53"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:56"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:46:59"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:02"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:10"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:13"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:17"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:17"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:20"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:20"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:23"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:23"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:26"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:26"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:29"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:29"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:32"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:32"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:35"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:35"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:38"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:38"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:41"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:41"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:44"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:44"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:47"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:47"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:55"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:55"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:58"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:47:58"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:02"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:02"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:05"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:05"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:08"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:08"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:11"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:11"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:14"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:14"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:17"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:17"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:20"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:20"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:23"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:23"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:26"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:26"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:29"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:29"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:32"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:32"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:40"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:40"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:43"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:43"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:47"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:47"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:50"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:50"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:53"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:53"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:56"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:48:59"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:02"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:05"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:08"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:11"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:14"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:17"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:25"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:28"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:33"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:33"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:36"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:36"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:39"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:39"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:42"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:42"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:45"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:45"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:48"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:48"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:51"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:51"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:54"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:54"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:57"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:49:57"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:00"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:00"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:03"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:03"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:28"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:31"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:35"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:36"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:38"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:39"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:41"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:42"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:44"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:45"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:47"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:48"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:50"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:51"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:53"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:54"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:56"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:57"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:50:59"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:00"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:02"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:03"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:05"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:06"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:13"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:14"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:16"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:17"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:20"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:21"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:23"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:24"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:26"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:27"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:29"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:30"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:32"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:33"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:35"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:36"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:38"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:39"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:41"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:42"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:44"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:45"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:47"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:48"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:50"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:51"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:59"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:51:59"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:02"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:03"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:05"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:07"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:08"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:10"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:11"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:25"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:28"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:28"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:31"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:31"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:34"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:35"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:37"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:38"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:40"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:42"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:43"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:45"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:46"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:48"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:50"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:51"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:53"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:54"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:56"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:57"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:52:59"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:00"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:02"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:03"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:06"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:10"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:13"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:14"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:17"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:17"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:20"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:21"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:23"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:24"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:26"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:27"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:29"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:30"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:32"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:33"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:35"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:36"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:38"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:39"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:41"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:42"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:44"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:45"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:47"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:48"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:51"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:55"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:58"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:53:59"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:02"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:02"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:05"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:06"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:08"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:09"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:11"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:12"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:14"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:15"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:17"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:18"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:20"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:21"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:23"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:24"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:26"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:27"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:29"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:30"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:32"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:33"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:36"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:40"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:44"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:44"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:47"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:47"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:50"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:51"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:53"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:54"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:56"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:57"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:54:59"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:00"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:02"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:03"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:05"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:06"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:08"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:09"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:11"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:12"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:14"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:15"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:17"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:19"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:22"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:25"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:28"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:30"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:32"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:32"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:35"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:36"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:38"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:39"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:41"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:42"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:44"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:45"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:47"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:48"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:50"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:51"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:53"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:54"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:56"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:58"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:55:59"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:01"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:03"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:04"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:07"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:11"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:14"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:15"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:18"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:18"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:21"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:21"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:24"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:24"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:27"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:27"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:30"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:30"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:33"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:33"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:36"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:36"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:39"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:39"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:42"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:42"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:45"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:45"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:48"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:49"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:52"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:56"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:56:59"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:00"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:02"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:03"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:06"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:06"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:09"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:09"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:12"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:12"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:15"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:15"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:18"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:18"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:21"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:21"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:24"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:24"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:27"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:27"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:30"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:30"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:33"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:33"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:36"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:41"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:44"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:44"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:47"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:47"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:50"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:51"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:53"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:54"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:57"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:57:57"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:00"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:00"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:03"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:03"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:06"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:06"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:09"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:09"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:12"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:12"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:15"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:16"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:18"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:19"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:22"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:26"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:29"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:30"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:32"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:32"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:35"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:37"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:38"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:40"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:41"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:43"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:44"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:46"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:47"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:49"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:51"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:52"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:54"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:55"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:57"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:58:58"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:00"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:01"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:03"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:04"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:07"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:11"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:14"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:15"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:18"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:18"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:21"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:22"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:24"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:25"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:27"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:28"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:30"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:32"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:33"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:35"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:36"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:38"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:39"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:41"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:42"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:44"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:45"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:47"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:48"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:50"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:53"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:56"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 01:59:59"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:01"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:03"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:04"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:06"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:07"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:09"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:10"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:12"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:13"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:15"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:16"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:18"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:19"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:21"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:22"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:24"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:25"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:27"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:28"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:30"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:31"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:33"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:35"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:38"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:41"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:44"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:46"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:48"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:49"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:51"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:53"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:54"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:56"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:57"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:00:59"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:00"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:02"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:03"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:05"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:06"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:08"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:09"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:11"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:13"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:14"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:16"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:17"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:19"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:20"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:23"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:27"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:29"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:31"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:33"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:34"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:36"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:38"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:39"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:41"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:42"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:44"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:45"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:47"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:48"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:50"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:51"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:54"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:54"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:57"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:01:57"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:00"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:00"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:03"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:03"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:06"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:09"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:12"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:14"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:17"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:18"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:20"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:21"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:24"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:24"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:27"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:27"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:30"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:30"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:33"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:34"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:36"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:37"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:39"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:40"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:42"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:43"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:45"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:46"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:48"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:49"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:51"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:54"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:02:57"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:00"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:02"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:03"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:05"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:06"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:09"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:09"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:12"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:12"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:15"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:15"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:18"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:19"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:21"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:22"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:24"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:25"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:27"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:28"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:30"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:31"
+    },
+    {
+        "pylone": "Csm_IP15",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:33"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:34"
+    },
+    {
+        "pylone": "Csm_IP16",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:36"
+    },
+    {
+        "pylone": "Csm_IP6",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:39"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:42"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:45"
+    },
+    {
+        "pylone": "Pyl\u00f4ne 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:47"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:49"
+    },
+    {
+        "pylone": "AMBASSADE_CANADA 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:50"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:52"
+    },
+    {
+        "pylone": "SIEGE_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:54"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:55"
+    },
+    {
+        "pylone": "SHELL_BDM LUMUBA",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:57"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:03:58"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 1",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:00"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:01"
+    },
+    {
+        "pylone": "PLACE-LUMUBA GD MARCHE 2",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:03"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:04"
+    },
+    {
+        "pylone": "Csm_IP11",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:06"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:07"
+    },
+    {
+        "pylone": "Csm_IP12",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:09"
+    },
+    {
+        "pylone": "Csm_IP14",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:10"
+    },
+    {
+        "pylone": "Csm_IP13",
+        "statut": "Hors ligne",
+        "timestamp": "2025-06-14 02:04:13"
+    }
+]
