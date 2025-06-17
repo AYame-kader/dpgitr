@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='Docs.css') }}">
+</head>
+<body class="global" style="margin: 0px;">
+    <div class="titre" style="display: flex;">
+        <h1 class="content" style="padding: 10px;">CAMERAS</h1>
+         <button onclick="envoyerMessage()" style="width: 20px; height: 10px;">Envoyer un message</button>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.2/socket.io.js"></script>
+
+
+    <div>
+
+        <script src="https://cdn.socket.io/4.0.1/socket.io.min.js"></script>
+        <script src="https://js.pusher.com/7.0/pusher.min.js"></script>
+
+        <div style="display: flex; gap: 50px; margin: 20px">
+            <div class="liste-container" style="padding: 10px; border-radius: 10px; background: rgb(224, 221, 221); width: 50%;">
+                <p style="font-family: Arial, Helvetica, sans-serif; font-size: 17px; color: black; margin-left: 150px; border-radius: 2px; background: rgb(134, 134, 135);">
+                    Liste des Pylônes
+                </p>
+                <script>
+                    const socket = io("http://localhost:5000", {
+                        transports: ["websocket"]  // Force WebSockets au lieu de polling
+                    });
+
+                    socket.on("mise_a_jour", function(etats) {
+                        let table = "";
+                        for (const [nom, statut] of Object.entries(etats)) {
+                            let classe = statut.includes("En ligne") ? "en-ligne" : "hors-ligne";
+                            table += `<tr class="${classe}"><td>${nom}</td><td>${statut}</td></tr>`;
+                        }
+                        document.getElementById("tableau-pylones").innerHTML = table;
+                    });
+                </script>
+                <script>
+                socket.on("response", (data) => {
+                    console.log("Réponse du serveur :", data);
+                });
+
+                function envoyerMessage() {
+                    socket.emit("message", "Salut Flask-SocketIO !");
+                }
+                </script>
+                <table id="tableau-pylones">
+                    <tr><th>Pylône</th><th>Statut</th></tr>
+                </table>
+            </div>
+
+            <div>
+                <script>
+                    socket.on("mise_a_jour", function(etats) {
+                        let alerteVisible = false;
+                        for (const statut of Object.values(etats)) {
+                            if (statut.includes("Hors ligne")) {
+                                alerteVisible = true;
+                            }
+                        }
+                        document.getElementById("alerte").style.display = alerteVisible ? "block" : "none";
+                    });
+                </script>
+
+                <script>
+                    var pusher = new Pusher("TA_CLE_API", { cluster: "TON_CLUSTER" });
+
+                    var channel = pusher.subscribe("alerte-channel");
+                    channel.bind("pylone-hors-ligne", function(data) {
+                        alert(data.message);
+                    });
+                </script>
+            </div>
+
+            <div class="alerte" style="border: 2px solid; background: beige; width: 50%; border-radius: 10px;">
+                <div class="nom" style="font-family: Arial, Helvetica, sans-serif; color: black;">📊 Historique des Alertes</div>
+                <table>
+                    <tr><th>Pylône</th><th>Statut</th><th>Date & Heure</th></tr>
+                    {% for alerte in historique %}
+                    <tr>
+                        <td>{{ alerte.pylone }}</td>
+                        <td>{{ alerte.statut }}</td>
+                        <td>{{ alerte.timestamp }}</td>
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="bloc2" style="display: flex; gap: 70px; padding: 20px;">
+        <div id="predictions" style="width: 50%; height: 250px; border: 2px solid rgb(79, 77, 77); background-color: #f8f9fa; border-radius: 5px;">
+            <h2>🔮 Prédictions IA : Risques de panne</h2>
+            <ul id="predictionList"></ul>
+            <script>
+                function mettreAJourPredictions() {
+                    fetch("/predictions")
+                        .then(response => response.json())
+                        .then(data => {
+                            var liste = document.getElementById("predictionList");
+                            liste.innerHTML = "";
+                            data.forEach(pylone => {
+                                var element = document.createElement("li");
+                                element.textContent = `⚠️ ${pylone.nom} - Risque de panne élevé`;
+                                liste.appendChild(element);
+                            });
+                        });
+                }
+            </script>
+        </div>
+
+        <div id="map" style="width:50%; border: 2px solid gray; border-radius: 10px; height: 250px;">
+            <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+            <script>
+                var map = L.map("map").setView([48.8566, 2.3522], 5);
+                L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+                    attribution: '&copy; OpenStreetMap contributors'
+                }).addTo(map);
+
+                var pylones = [
+                    { nom: "pilone1", lat: 12.6591137, lon: -7.9635423, statut: "🟢 En ligne" },
+                    { nom: "Pylône 2", lat: 12.6591137, lon: -7.9635423, statut: "🔴 Hors ligne" },
+                    { nom: "Pylône 3", lat: 12.637333, lon: -8.004568, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.637333, lon: -8.004568, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.632849, lon: -7.998283, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.632849, lon: -7.998283, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.6390114, lon: -7.9971594, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.6390114, lon: -7.9971594, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.6429404, lon: -7.9978950, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.6429404, lon: -7.9978950, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat: 12.632001, lon: -8.011331, statut: "🟢 En ligne" },
+                    { nom: "Pylône 3", lat:  12.632001, lon: -8.011331, statut: "🟢 En ligne" }
+
+
+
+
+                ];
+
+                pylones.forEach(function(pylone) {
+                    var couleur = pylone.statut.includes("En ligne") ? "green" : "red";
+                    L.marker([pylone.lat, pylone.lon])
+                        .bindPopup(`<b>${pylone.nom}</b><br>${pylone.statut}`)
+                        .addTo(map);
+                });
+            </script>
+        </div>
+        
+    </div>
+
+    <header style="background: black; margin: 0px; padding: 0px;">
+        <p>Propos</p>
+        <p>Contacts</p>
+        <p>Aide</p>
+    </header>
+</body>
+</html>
